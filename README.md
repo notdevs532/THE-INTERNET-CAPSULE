@@ -3,7 +3,7 @@
 
 <img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/df6773ec-96ec-4aa6-aa37-88ca2a721716" />
 
-### This the home page of the website.
+## This the home page of the website.
 
 <img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/88274bfc-c005-4436-a2ba-97cf613cac0d" />
 <img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/ac14cae5-81c6-4556-89c9-97e5b0270867" />
