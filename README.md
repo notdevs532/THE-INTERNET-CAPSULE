@@ -19,5 +19,5 @@
 ### This the last page the about section of website.
 
 # AI usage
-## I used AI for illustration generation, Debuging codes, and learnimg new codes.
+## I used AI for illustration generation, Debuging codes, research about Internet, and learnimg new codes.
 ## NO COPY & PASTE OF CODES
